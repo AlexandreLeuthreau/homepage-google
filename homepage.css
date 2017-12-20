@@ -1,0 +1,140 @@
+/* Header */
+
+#nav_bar {
+  float: right;
+}
+
+#nav_bar li {
+  display: inline-block;
+  padding: 8px;
+}
+
+#nav_bar #sign_in {
+  background: #4887ef; 
+  margin-right: 25px;
+  padding: 7px 15px;
+  border-radius: 3px; 
+  font-weight: bold;
+}
+
+.nav-links {
+  color: #404040;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+li.nav-links a:hover {
+  text-decoration: underline;
+}
+
+#sign_in:hover { 
+  box-shadow: 1px 1px 5px #999;
+}
+
+#sign_in {
+  color: #fff;
+}
+
+/* Content1: Google */
+
+.content1{
+  padding-top: 30%;
+  font-size: 61px;
+  font-family: 'arial', sans-serif;
+  text-align: center;
+  z-index: 0;
+  position: relative;
+  word-spacing: -17px;
+}
+
+.G{
+  color: #0057e7;
+}
+
+.O1{
+  color:#d62d20;
+}
+
+.O2{
+  color:#ffa700;
+}
+
+.g{
+   color: #0057e7; 
+}
+
+.l{
+  color: #008744;
+}
+
+.e{
+  color: 	#d62d20;
+  transform: rotate(-10deg);
+}
+
+/* Conent2 : France*/
+
+.content2{
+  color: #0057e7;
+  margin-left: 60%;
+  margin-top: -13%;
+  font-family: 'arial', sans-serif:
+}
+
+/* Searching */
+
+.form {
+  text-align: center;
+}
+
+#form-search { 
+  width: 450px;
+  line-height: 32px;
+  padding: 20px 10px;
+}
+
+.form #form-search {
+  padding: 0 8px;
+}
+/* Buttons */
+
+.buttons {
+  text-align: center;
+  padding-top: 30px;
+  margin-bottom: 300px;
+}
+
+/* FOOTER */
+footer  {
+  background: #f2f2f2;
+  border-top: solid 2px #e4e4e4;
+  
+/*   position: fixed; */
+  bottom: 0;
+  padding-bottom: 0;
+  width: 100%;
+  
+}
+
+footer ul li {
+  display: inline;
+  color: #666666;
+  font-size: 14px;
+  padding: 13px;
+}
+
+footer ul {
+  float: left;
+  padding: 1px;
+}
+
+footer ul a:hover {
+  text-decoration: underline;
+}
+
+.footer-right {
+  float: right;
+}
