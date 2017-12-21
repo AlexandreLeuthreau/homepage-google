@@ -51,6 +51,7 @@ p {
 }
 
 .content {
+  display: block;
   padding-top: 26%;
   font-size: 61px;
   font-family: 'arial', sans-serif;
@@ -88,8 +89,9 @@ p {
 /*  soustitre */
 
 #soustitre {
+  font-size: 15px;
   color: #0057e7;
-  margin-left: 60%;
+  margin-left: 40%;
   margin-top: -13%;
   font-family: 'arial', sans-serif:
 }
