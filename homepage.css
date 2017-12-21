@@ -78,17 +78,17 @@ p {
 
 .O1{
   color:#d62d20;
-  font-size: 72px;
+  transform: scale(1, 0.6);
 }
 
 .O2{
   color:#ffa700;
-  font-size: 72px;
+  transform: scale(1, 0.6);
 }
 
 .g{
    color: #0057e7;
-  font-size: 72px;
+   transform: scale(1, 0.6);
 }
 
 .l{
@@ -97,7 +97,7 @@ p {
 
 .e{
   color: 	#d62d20;
-  font-size: 72px;
+  transform: scale(1, 0.6);
   transform: rotate(-10deg);
 }
 
