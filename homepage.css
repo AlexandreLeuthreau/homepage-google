@@ -77,28 +77,28 @@ p {
   font-size: 97px;
   font-weight: 600;
   display: inline-block;
-  transform: scale(1, 0.8)
+  transform: scale(1, 0.9)
 }
 
 .O1{
   color:#d62d20;
   font-weight: 600;
   display: inline-block;
-  transform: scale(1, 0.8)
+  transform: scale(1, 0.9)
 }
 
 .O2{
   color:#ffa700;
   font-weight: 600;
   display: inline-block;
-  transform: scale(1, 0.8)
+  transform: scale(1, 0.9)
 }
 
 .g{
   color: #0057e7;
   font-weight: 600;
   display: inline-block;
-  transform: scale(1, 0.8)
+  transform: scale(1, 0.9)
 }
 
 .l{
@@ -106,16 +106,15 @@ p {
   font-size: 97px;
   font-weight: 600;
   display: inline-block;
-  transform: scale(1, 0.8)
+  transform: scale(1, 0.9)
 }
 
 .e{
   color: 	#d62d20;
   font-weight: 600;
   display: inline-block;
-  transform: rotate(-17deg);
-  display: inline-block;
-  transform: scale(1, 0.8)
+  transform: scale(1, 0.9)
+  transform: rotate(-15deg);
 }
 
 /*  soustitre */
