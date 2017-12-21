@@ -64,7 +64,7 @@ li.nav-links a:hover {
   text-align: center;
   z-index: 0;
   position: relative;
-  word-spacing: -21px;
+  word-spacing: -23px;
 }
 
 p {
@@ -80,7 +80,7 @@ p {
 
 .O1{
   color:#d62d20;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .O2{
