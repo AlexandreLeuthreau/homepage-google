@@ -70,38 +70,40 @@ li.nav-links a:hover {
 p {
   margin: 0;
   padding: 0;
-  display: inline-block;
 }
 
 .G{
   color: #0057e7;
   font-size: 97px;
+  font-wight: 800;
 }
 
 .O1{
   color:#d62d20;
-  transform: scale(1, 0.6);
+  font-wight: 800;
 }
 
 .O2{
   color:#ffa700;
-  transform: scale(1, 0.6);
+  font-wight: 800;
 }
 
 .g{
-   color: #0057e7;
-   transform: scale(1, 0.6);
+  color: #0057e7;
+  font-wight: 800;
 }
 
 .l{
   color: #008744;
   font-size: 97px;
+  font-wight: 800;
 }
 
 .e{
   color: 	#d62d20;
+  font-wight: 800;
   display: inline-block;
-  transform: rotate(-30deg);
+  transform: rotate(-25deg);
 }
 
 /*  soustitre */
