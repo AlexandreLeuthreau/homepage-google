@@ -92,7 +92,7 @@ p {
   font-size: 12px;
   color: #0057e7;
   margin-left: 50%;
-  margin-top: -25%;
+  margin-top: 28%;
   font-family: 'arial', sans-serif;
   position: absolute;
   z-index: 1;
@@ -103,6 +103,7 @@ p {
 
 .form {
   text-align: center;
+  margin-top: 20px;
 }
 
 #form-search { 
