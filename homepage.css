@@ -82,7 +82,8 @@ p {
   color:#d62d20;
   font-weight: 600;
   display: inline-block;
-  transform: scale(1, 0.7);
+  transform: scale(0.9, 0.9);
+  margin-top: 10px;
 }
 
 .O2{
