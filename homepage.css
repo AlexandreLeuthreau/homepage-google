@@ -99,8 +99,7 @@ p {
 
 .e{
   color: 	#d62d20;
-  transform: scale(1, 0.6);
-  transform: rotate(-0.2turn);
+  transform: rotate(20deg);
 }
 
 /*  soustitre */
