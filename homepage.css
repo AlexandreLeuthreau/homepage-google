@@ -52,7 +52,7 @@ li.nav-links a:hover {
   font-family: 'arial', sans-serif;
   text-align: center;
   z-index: 0;
-  position: absolute;
+  position: relative;
   word-spacing: -17px;
 }
 
@@ -94,7 +94,7 @@ p {
   margin-left: 32%;
   margin-top: -13%;
   font-family: 'arial', sans-serif;
-  position: relative;
+  position: absolute;
   z-index: 1;
   
 }
