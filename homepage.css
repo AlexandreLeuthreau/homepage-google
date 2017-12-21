@@ -99,6 +99,9 @@ p {
 
 .e{
   color: 	#d62d20;
+}
+
+span.e {
   transform: rotate(20deg);
 }
 
