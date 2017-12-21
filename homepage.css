@@ -12,6 +12,7 @@ body {
 #nav_bar li {
   display: inline-block;
   padding: 8px;
+  font-family: 'arial', sans-serif;
 }
 
 #nav_bar #sign_in {
