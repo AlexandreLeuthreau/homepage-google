@@ -38,6 +38,12 @@ li.nav-links a:hover {
   color: #fff;
 }
 
+/* block logo */
+
+#logo { 
+  margin-top : 15%;
+}
+
 /* Content1: Google */
 
 .content1{
