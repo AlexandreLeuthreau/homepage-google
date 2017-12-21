@@ -60,11 +60,11 @@ li.nav-links a:hover {
   display: block;
   margin: 0 auto;
   padding-top: 24%;
-  font-size: 75px;
+  font-size: 85px;
   text-align: center;
   z-index: 0;
   position: relative;
-  word-spacing: -19px;
+  word-spacing: -21px;
 }
 
 p {
@@ -107,6 +107,7 @@ p {
   font-size: 15px;
   color: #0057e7;
   padding-left: 3px;
+  padding-top: -5px;
   margin-left: 54%;
   margin-top: -18px;
   position: absolute;
