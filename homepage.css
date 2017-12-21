@@ -43,13 +43,6 @@ li.nav-links a:hover {
   color: #fff;
 }
 
-/* block logo */
-
-.logo { 
-  margin-top : 15%;
-  display: block;
-}
-
 /* Content1: Google */
 
 p {
@@ -57,8 +50,8 @@ p {
   padding: 0;
 }
 
-.content1{
- /* padding-top: 26%;*/
+.content {
+  padding-top: 26%;
   font-size: 61px;
   font-family: 'arial', sans-serif;
   text-align: center;
