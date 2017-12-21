@@ -70,6 +70,7 @@ li.nav-links a:hover {
 p {
   margin: 0;
   padding: 0;
+  display: inline-block;
 }
 
 .G{
