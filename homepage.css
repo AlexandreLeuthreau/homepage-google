@@ -113,8 +113,7 @@ p {
   color: 	#d62d20;
   font-weight: 600;
   display: inline-block;
-  transform: scale(1, 0.9)
-  transform: rotate(-15deg);
+  transform: scale(1, 0.9) rotate(-15deg);
 }
 
 /*  soustitre */
