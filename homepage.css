@@ -78,14 +78,17 @@ p {
 
 .O1{
   color:#d62d20;
+  font-size: 72px;
 }
 
 .O2{
   color:#ffa700;
+  font-size: 72px;
 }
 
 .g{
-   color: #0057e7; 
+   color: #0057e7;
+  font-size: 72px;
 }
 
 .l{
@@ -94,6 +97,7 @@ p {
 
 .e{
   color: 	#d62d20;
+  font-size: 72px;
   transform: rotate(-10deg);
 }
 
@@ -103,8 +107,7 @@ p {
   font-size: 15px;
   color: #0057e7;
   margin-left: 54%;
-  margin-top: -5px;
-  margin-bottom: 10px;
+  margin-top: -18px;
   position: absolute;
   z-index: 1;
   
