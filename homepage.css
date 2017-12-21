@@ -82,13 +82,16 @@ p {
   color:#d62d20;
   font-weight: 600;
   display: inline-block;
-  transform: scale(0.9, 0.9);
-  margin-top: 10px;
+  transform: scale(0.9, 0.8);
+  margin-top: 12px;
 }
 
 .O2{
   color:#ffa700;
   font-weight: 600;
+  display: inline-block;
+  transform: scale(0.9, 0.8);
+  margin-top: 12px;
 }
 
 .g{
