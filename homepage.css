@@ -81,6 +81,8 @@ p {
 .O1{
   color:#d62d20;
   font-weight: 600;
+  display: inline-block;
+  transform: scale(1, 0.7);
 }
 
 .O2{
