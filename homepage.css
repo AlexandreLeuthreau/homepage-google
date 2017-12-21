@@ -83,7 +83,7 @@ p {
   font-weight: 600;
   display: inline-block;
   transform: scale(0.9, 0.8);
-  margin-top: 12px;
+  padding-top: 16px;
 }
 
 .O2{
@@ -91,18 +91,24 @@ p {
   font-weight: 600;
   display: inline-block;
   transform: scale(0.9, 0.8);
-  margin-top: 12px;
+  padding-top: 16px;
 }
 
 .g{
   color: #0057e7;
   font-weight: 600;
+  display: inline-block;
+  transform: scale(0.9, 0.8);
+  padding-top: 16px;
 }
 
 .l{
   color: #008744;
   font-size: 97px;
   font-weight: 600;
+  display: inline-block;
+  transform: scale(0.9, 0.8);
+  padding-top: 16px;
 }
 
 .e{
@@ -110,6 +116,8 @@ p {
   font-weight: 600;
   display: inline-block;
   transform: rotate(-25deg);
+  transform: scale(0.9, 0.8);
+  padding-top: 16px;
 }
 
 /*  soustitre */
