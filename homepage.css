@@ -106,6 +106,7 @@ p {
 #soustitre {
   font-size: 15px;
   color: #0057e7;
+  padding-left: 3px;
   margin-left: 54%;
   margin-top: -18px;
   position: absolute;
