@@ -47,6 +47,7 @@ li.nav-links a:hover {
 
 .logo { 
   padding-top : 15%;
+  display: block;
 }
 
 /* Content1: Google */
