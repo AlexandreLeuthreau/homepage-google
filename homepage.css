@@ -101,7 +101,7 @@ p {
   color: 	#d62d20;
 }
 
-span.e {
+.e.content {
   transform: rotate(20deg);
 }
 
