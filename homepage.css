@@ -60,7 +60,7 @@ li.nav-links a:hover {
   display: block;
   margin: 0 auto;
   padding-top: 24%;
-  font-size: 61px;
+  font-size: 75px;
   text-align: center;
   z-index: 0;
   position: relative;
@@ -100,7 +100,7 @@ p {
 /*  soustitre */
 
 #soustitre {
-  font-size: 12px;
+  font-size: 15px;
   color: #0057e7;
   margin-left: 54%;
   margin-top: -5px;
