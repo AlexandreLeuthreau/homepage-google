@@ -64,7 +64,7 @@ li.nav-links a:hover {
   text-align: center;
   z-index: 0;
   position: relative;
-  word-spacing: -21px;
+  word-spacing: -25px;
 }
 
 p {
@@ -109,7 +109,7 @@ p {
   padding-left: 3px;
   padding-top: -5px;
   margin-left: 54%;
-  margin-top: -18px;
+  margin-top: -25px;
   position: absolute;
   z-index: 1;
   
