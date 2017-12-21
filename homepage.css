@@ -85,9 +85,9 @@ p {
   transform: rotate(-10deg);
 }
 
-/* Conent2 : France*/
+/*  soustitre */
 
-.content2{
+#soustitre {
   color: #0057e7;
   margin-left: 60%;
   margin-top: -13%;
